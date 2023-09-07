@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.csproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\bin\Debug\Simple_calculator.exe.config
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\bin\Debug\Simple_calculator.exe
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\bin\Debug\Simple_calculator.pdb
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.exe
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja\C#\tugas 1\Simple_calculator\obj\Debug\Simple_calculator.pdb
